@@ -71,12 +71,12 @@ const mainNavItems: NavItem[] = [
 
 const footerNavItems: NavItem[] = [
     {
-        title: 'Repository Developer',
-        href: 'https://github.com/laravel/react-starter-kit',
+        title: 'Repository Project',
+        href: 'https://github.com/Aryaaazrr/tk_ims',
         icon: Github,
     },
     {
-        title: 'Contact Me',
+        title: 'Contact Developer',
         href: 'https://wa.me/6287863302407',
         icon: MessageCircle,
     },
