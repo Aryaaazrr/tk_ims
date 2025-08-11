@@ -36,16 +36,6 @@ const mainNavItems: NavItem[] = [
                 icon: Users,
             },
             {
-                title: 'Wilayah',
-                href: '/master-data/wilayah',
-                icon: MapPin,
-            },
-            {
-                title: 'Pengguna',
-                href: '/master-data/pengguna',
-                icon: UserCog,
-            },
-            {
                 title: 'Tindakan Medis',
                 href: '/master-data/tindakan',
                 icon: Stethoscope,
@@ -54,6 +44,16 @@ const mainNavItems: NavItem[] = [
                 title: 'Obat',
                 href: '/master-data/obat',
                 icon: PillIcon,
+            },
+            {
+                title: 'Wilayah',
+                href: '/master-data/wilayah',
+                icon: MapPin,
+            },
+            {
+                title: 'Pengguna',
+                href: '/master-data/pengguna',
+                icon: UserCog,
             },
         ],
     },

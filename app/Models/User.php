@@ -18,6 +18,9 @@ class User extends Authenticatable
     public const ROLE_DOKTER = 'dokter';
     public const ROLE_KASIR = 'kasir';
 
+    protected $table = 'users';
+    protected $primaryKey = 'id_users';
+
     /**
      * The attributes that are mass assignable.
      *
